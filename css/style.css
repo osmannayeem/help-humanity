@@ -1,0 +1,160 @@
+body {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.banner {
+    text-align: center;
+    color: white;
+    background-image: url(../image/donation13.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.bg-height {
+    padding: 10em;
+}
+
+.banner h1 {
+    font-size: 70px;
+    margin: 0;
+}
+
+.banner p {
+    color: white;
+    text-align: center;
+    width: 60%;
+    padding-bottom: 2%;
+    margin: 2% 20%;
+}
+
+.anchor-button {
+    text-align: center;
+    color: white;
+    background-color: rgba(255, 0, 0, 0.69);
+    padding: 20px 40px;
+    font-size: 20px;
+    font-weight: 700;
+    text-decoration: none;
+    border-radius: 5px;
+}
+
+.donate-amount {
+    padding-top: 50px;
+    text-align: center;
+}
+
+h2 {
+    padding-top: 50px;
+    font-size: 40px;
+    font-weight: 700;
+    text-align: center;
+}
+
+p {
+    font-size: 20px;
+    color: gray;
+    padding-top: 20px;
+    text-align: center;
+}
+
+.donate-amount div {
+    font-size: 40px;
+    color: rgb(105, 102, 102);
+    background-color: rgba(240, 234, 234, 0.719);
+    padding: 10px 20px;
+    margin: 10px;
+    display: inline-flex;
+}
+
+#selected-amount {
+    color: rgba(255, 0, 0, 0.699);
+    border: 2px solid rgba(255, 0, 0, 0.699);
+    border-radius: 5px;
+    background-color: rgba(228, 166, 166, 0.226);
+}
+
+hr {
+    width: 65%;
+    background-color: gainsboro;
+    margin-bottom: 50px;
+}
+
+.donate-plan {
+    color: rgb(105, 102, 102);
+    background-color: rgba(240, 234, 234, 0.719);
+    display: inline-flex;
+    margin: 50px 100px;
+    text-align: left;
+
+}
+
+.donate-plan h3 {
+    text-align: left;
+    font-size: 30px;
+    color: black;
+}
+
+.donate-plan p {
+    text-align: left;
+}
+
+#food {
+    border: 10px solid white;
+    background-color: aliceblue;
+    padding: 40px 20px;
+    text-align: left;
+}
+
+#shelter {
+    border: 10px solid white;
+    background-color: rgba(255, 228, 196, 0.705);
+    padding: 40px 20px;
+}
+
+#education {
+    border: 10px solid white;
+    background-color: lightgoldenrodyellow;
+    padding: 40px 20px;
+}
+
+.subscription {
+
+    background-color: rgba(245, 234, 84, 0.315);
+    padding: 70px;
+    width: 50%;
+    margin: 0 20%;
+    display: flex;
+}
+
+#email {
+    width: 400px;
+    height: 68px;
+    background-color: rgba(128, 128, 128, 0.123);
+    border-width: 0;
+    font-size: 20px;
+    font-weight: 700;
+    padding-left: 20px;
+    color: gray;
+    margin-left: 10%;
+    border-radius: 5px;
+}
+
+.the-end {
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+}
+
+.the-end h3 {
+    font-family: 'Cookie', cursive;
+    font-size: 60px;
+    font-weight: 700;
+    color: tomato;
+    margin: 0;
+}
+
+.the-end p {
+    font-size: 20px;
+    color: white;
+}
